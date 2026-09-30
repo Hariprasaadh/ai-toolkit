@@ -79,7 +79,7 @@
         "mem0-mcp"
       ],
       "env": {
-        "MEM0_API_KEY": "m0-5xgEDXQlhywZgEDt3o6It6lNEDB25iQ8Y8I6H6bM"
+        "MEM0_API_KEY": ""
       }
     },
     "agentmemory": {
